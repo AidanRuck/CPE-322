@@ -26,6 +26,7 @@ Here's a little break (horizontal rule) to move towards the embedded links
 
 [You can check out Aventix (my company) here.](https://www.aventix.net/)
 
+Here's a picture I took at a recent concert that I went to
 ![Here's a picture I took at a recent concert that I went to](https://github.com/user-attachments/assets/500ded38-578d-4c96-8906-20454cf40597 "Band: Surf Curse")
 
   
