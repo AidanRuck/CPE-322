@@ -1,6 +1,7 @@
 # CPE-322
 Made by **Aidan Ruck**
 For the *Spring 2025* Semester
+My course site can be found at [this link.](https://sites.google.com/stevens.edu/nicholas-scirocco-site/home)
 
 > Here are some upcoming labs and projects that I have coming up
 
