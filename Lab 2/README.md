@@ -1,5 +1,5 @@
 # Lab 2 - Command Line
-### "I pledge my honor that I have abided by the Stevens Honor System." -Aidan Ruck
+### *"I pledge my honor that I have abided by the Stevens Honor System." -Aidan Ruck*
 
 ## Introduction to the Lab
 This lab is to familiarize students with the Command Line, specifically realting to Debian Linux commands (as that is what Raspberry Pis are based on). These commands are integral to working with a Raspberry Pi, and therefore, one should be knowledgeable. Since these are Linux commands, I used a Git Bash terminal for a Simulation of a Linux Environment (as showcased by other students).
