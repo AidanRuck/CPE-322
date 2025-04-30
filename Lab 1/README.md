@@ -21,3 +21,8 @@ $ ghdl -r dff_tb --vcd=dff.vcd
 $ gtkwave dff.vcd
 ```
 ![image](https://github.com/user-attachments/assets/9c887d65-0590-4100-a90c-d6e5341a8e05)
+
+# Notes
+* GHDL and GTKWave required to find waveforms
+* These download links can be found on [Prof. Lu's Repository for Lab 1](https://github.com/kevinwlu/dsd/tree/master/ghdl)
+* I utilize a Windows device, therefore commands were run on Powershell
