@@ -108,3 +108,6 @@ You can then view the site at [127.0.0.1:8000/home](127.0.0.1:8000/home). At thi
 ![image](https://github.com/user-attachments/assets/e49afb1e-d244-476e-a064-86a411ac6d1d)  
 To run this server, I navigated into the lesson4 directory to run the hello_world.py file. After running the command, I went to [http://127.0.0.1:500/](http://127.0.0.1:500/) to view it.  
 ![image](https://github.com/user-attachments/assets/b25707d6-23c2-4c7f-bc40-98065a42aaf9)
+
+## Notes
+* All files can be found on [Prof. Lu's Repository](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens).
