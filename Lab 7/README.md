@@ -22,7 +22,7 @@ After that, I used `pip install -U gspread oath2client` to install Python packag
 ![image](https://github.com/user-attachments/assets/996d010a-5295-4e56-85c8-ea32fd98168d)  
 Then, I used the commands `cp ~/iot/lesson3/system_info.py .` and `cp ~/iot/lesson7/cpu_spreadsheet.py .` to move the files into the demo foler. After that, I used the `mv` command to move my API key into the directory. 
 ![image](https://github.com/user-attachments/assets/3213c196-5f00-4bae-a565-fca2500b3948)  
-I then created a new Google Sheet named cpudata, then I shared it to my API service account as an editor. I all rows but the first, and then added the following headers:  
+I then created a new Google Sheet named cpudata, then I shared it to my API service account as an editor. I deleted all rows but the first, and then added the following headers:  
 ![image](https://github.com/user-attachments/assets/b691fa3b-b288-4f4c-827a-b49e877f0618)  
 Then, I had to edit lines in cpu_spreadsheet.py to match my own spreadsheet and API. To do this, I used the `nano` command. I then ran the command `python cpu_spreadsheet.py`, and had my CPU utilization and memory output to the Google Sheet roughly every 10 seconds.  
 ![image](https://github.com/user-attachments/assets/79480568-377f-4f8f-89e7-aba071b83c14)  
