@@ -16,7 +16,7 @@ cpu_spreadsheet.py (from Lab 7) only collects Available Memory, and not temperat
 ![image](https://github.com/user-attachments/assets/d4dbc368-a028-43ad-be75-711fb1b703b6)  
 I did the same for both plt_final.py and plt_cv2.py.  
 After running both files, you are presented with all of the charts seen below. plt_final.py produces charts comparing the two variables from the CPU usage. The second program, plt_cv2.py, uses scikit-learn to produce a linear regression model. This data is not as linear as temperature, so it is not very accurate.  
-![image](https://github.com/user-attachments/assets/a2dc1907-6722-42cf-bfce-f49f84a69e41)  
+![image](https://github.com/user-attachments/assets/80fff4be-6cf6-42ab-9afc-691de5fa1a18)  
 ![image](https://github.com/user-attachments/assets/6f692518-3a37-457d-8bdc-68312ecb3870)  
 ![image](https://github.com/user-attachments/assets/b2b92d56-9191-4408-85ab-859b535f70a9)  
 ![image](https://github.com/user-attachments/assets/e0f88bef-4882-4914-b767-df7af6384a40)  
