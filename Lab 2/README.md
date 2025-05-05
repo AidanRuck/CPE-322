@@ -98,7 +98,7 @@ The 'ping' command allows a machine to send test packets to see if a network con
 
 ## netstat
 ![image](https://github.com/user-attachments/assets/9cbf2edf-f63e-4594-be50-64dc1722433b)  
-'netstat' is short for "Network Statistics" and it displays current connections to whatever Wi-Fi (or ethernet) connection the computer has. It displays information such as the type of protocol, the IP address, and the current state of all network connections.
+'netstat' is short for "Network Statistics" and it displays current connections to whatever Wi-Fi (or Ethernet) connection the computer has. It displays information such as the type of protocol, the IP address, and the current state of all network connections.
 
 ## Notes
 * As I specified earlier, these were conducted on a Git Bash terminal to simulate a Linux Environment. These commands can be run on some Windows terminals, though they may not function the same way.
